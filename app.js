@@ -14,6 +14,7 @@ app.get('/', (req, res) => {
         <title>HTMX Essentials</title>
         <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet">
         <link rel="icon" href="/icon.png" />
+        <script src="/htmx.js" defer></script>
         <link rel="stylesheet" href="/main.css" />
       </head>
       <body>
